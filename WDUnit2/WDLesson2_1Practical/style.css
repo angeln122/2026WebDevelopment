@@ -18,7 +18,7 @@ h3{
         font-size:60pt;
       }
 /* Challenge 3: Change the style of the font for all spans to italic */
-p{
+span{
   font-style:italic;
 }
 /* Challenge 4: Change the family of font being used for all paragraphs to "Arial" */
